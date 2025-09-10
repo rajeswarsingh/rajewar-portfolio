@@ -16,11 +16,6 @@ const skills = [
 
 const projects = [
   {
-    title: "Websites Portfolio",
-    description: "A showcase of all my web projects and portfolios.",
-    link: "https://github.com/rajeswarsingh/Websites-Portfolio"
-  },
-  {
     title: "Basic Statistics Case Study",
     description: "Case study applying basic statistical methods to analyze datasets.",
     link: "https://github.com/rajeswarsingh/Basic-Statistics-Case-Study"
@@ -54,7 +49,7 @@ function App() {
         display: "flex", alignItems: "center", gap: 20,
         background: "#fff", borderRadius: "15px", padding: "20px", boxShadow: "0 4px 24px #0001"
       }}>
-        <img src={profile.avatar} alt="Profile" style={{ width: 100, borderRadius: "50%" }} />
+       // <img src={profile.avatar} alt="Profile" style={{ width: 100, borderRadius: "50%" }} />
         <div>
           <h1 style={{ margin: 0 }}>{profile.name}</h1>
           <h3 style={{ margin: 0, color: "#3a86ff" }}>{profile.tagline}</h3>
