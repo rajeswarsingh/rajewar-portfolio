@@ -4,7 +4,7 @@ const profile = {
   name: "Rajeswar Singh",
   tagline: "Data Analyst • SQL • Python • Statistics",
   description: `I am passionate about data analysis, statistics, and leveraging SQL/Python to solve real-world business problems. I have hands-on experience with exploratory data analysis, hypothesis testing, and data-driven decision making. Check out my portfolio and projects below!`,
-  avatar: "https://avatars.githubusercontent.com/u/rajeswarsingh?v=4",
+  //avatar: "https://avatars.githubusercontent.com/u/rajeswarsingh?v=4",
   email: "iamrajeswar@gmail.com",
   linkedin: "https://www.linkedin.com/in/your-linkedin/", // Update with your LinkedIn URL
   github: "https://github.com/rajeswarsingh"
